@@ -58,6 +58,7 @@ footer {
     position: fixed;
     height: 100%;
     flex: 1;
+    justify-content: center;
 }
 #intro-statement {
     color: #fff;
@@ -74,4 +75,22 @@ footer {
     flex: 10;
     margin-left: 100px;
     align-items: flex-start;
+}
+#home {
+    background-color: #5250A0;
+    box-shadow: none;
+}
+.school-images {
+    height: fit-content;
+    width: fit-content;
+}
+#Haverford-logo {
+    height: 25%;
+    width: 25%;
+}
+#univ-images-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
 }
