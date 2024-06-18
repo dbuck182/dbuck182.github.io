@@ -71,14 +71,14 @@ footer {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-   
+    
     font-size: large;
     align-items: center;
     
 }
 #page-body {
     flex: 10;
-    
+    width: 70%;
     align-items: flex-start;
 }
 #home {
