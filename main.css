@@ -105,3 +105,22 @@ footer {
     justify-content: center;
     
 }
+.section-heading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* border: #929292 solid; */
+    
+}
+
+.project-container {
+    border: #929292 solid;
+    
+}
+.education-one{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
